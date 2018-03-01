@@ -9,5 +9,5 @@ Cherry MX Black | Black | Linear | 60 | 2.0 | 4.0
 Cherry MX Silent Black | Dark Gray | Linear | 60 | 1.9 | 3.7
 Cherry MX Brown | Brown | Tactile | 55 | 2.0 | 4.0
 Cherry MX Clear | Translucent White | Tactile | | |
-Cherry MX Blue | Blue | Tactile and Clicky | 60 | 2.2 | 4.0
-Cherry MX Green
+Cherry MX Blue | Blue | Tactile and Audible | 60 | 2.2 | 4.0
+Cherry MX Green | Green | Tactile and Audible | | |
