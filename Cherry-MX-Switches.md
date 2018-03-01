@@ -1,7 +1,7 @@
 # Cherry MX Switches
 
-Name | Type | Color | Operating Force (cN) | Pre Travel (mm) | Total Travel (mm)
------|------|-------|----------------------|-----------------|------------------
+Name | Color | Type | Operating Force (cN) | Pre Travel (mm) | Total Travel (mm)
+-----|-------|------|----------------------|-----------------|------------------
 Cherry MX Red | Red | Linear | 45 | 2.0 | 4.0
 Cherry MX Silent Red | Pink | Linear | 45 | 1.9 | 3.7
 Cherry MX Speed Silver | Shiny Light Gray| Linear | 45 | 1.2 | 3.4
