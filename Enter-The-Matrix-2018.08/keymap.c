@@ -1,5 +1,6 @@
 /*
- *  QMK Firmware DZ60 ISO French keymap
+ *  QMK Firmware 0.6.93
+ *  DZ60 ISO French keymap
  */
 
 #include QMK_KEYBOARD_H
